@@ -7,13 +7,10 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Desafio-07-Codelandia-Valorant/blob/main/gif/bandicam%202023-01-23%2017-08-18-762.gif"/>
+  <img src="https://github.com/Lucas8901/experience_rating/blob/main/img/bandicam%202023-03-27%2018-59-21-074.gif"/>
   </div>
   
- <br>
- <p> Teste em seu dispositivo📱: <br> https://desafio-07-codelandia-valorant.vercel.app/</p>
- <br>
-
+ 
 <br>
 <br>
 
